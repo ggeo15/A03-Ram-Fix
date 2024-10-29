@@ -1,6 +1,6 @@
 id=a03ramfix
 name=fix galaxy a03 ram management
-version=1.0
+version=1
 versionCode=1
 author=ggeo15
 description=This will help improve memory management on your device by adjusting how the system handles excessive memory allocation and how the OOM Killer selects processes.
