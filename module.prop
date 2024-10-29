@@ -1,6 +1,7 @@
 id=a03ramfix
 name=fix galaxy a03 ram management
-version=1
+version=v1
 versionCode=1
 author=ggeo15
 description=try to adjust the ram and zram management of the galaxy a03 (it may work well for other samsung phones)
+updateJson=updateJson=https://github.com/ggeo15/A03-Ram-Fix/raw/main/update.json
