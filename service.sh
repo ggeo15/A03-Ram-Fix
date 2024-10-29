@@ -1,4 +1,3 @@
-sleep 25
 #this is for system apps
 echo '100' > /dev/memcg/system/memory.swappiness
 #this is for user applications
