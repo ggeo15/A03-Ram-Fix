@@ -1,6 +1,6 @@
 {
-  "version": "1",
-  "versionCode": "1",
-  "zipUrl": "https://github.com/ggeo15/A03-Ram-Fix/releases/download/V1/A03RamFix.zip",
+  "version": "v1", 
+  "versionCode": 1, 
+  "zipUrl": "https://github.com/ggeo15/A03-Ram-Fix/releases/download/v1/A03RamFix.zip",
   "changelog": "https://github.com/ggeo15/A03-Ram-Fix/commits/V1"
 }
